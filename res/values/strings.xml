@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListViewTst</string>
+    <string name="BaseAdapterSample">BaseAdapterSample</string>
+    <string name="SimpleAdapterSample">SimpleAdapterSample</string>
+    <string name="ArrayAdapterSample">ArrayAdapterSample</string>
+    <string name="sync_counter">sync_counter</string>
+    <string name="ServiceSample">ServiceSample</string>
+    <string name="InentSample">IntentSample</string>
+    <string name="sync_task">sync_task</string>
+    <string name="viewstub">ViewStub</string>
+    <string name="actionbar_tst">ActionBar</string>
+    <string name="music_player">Music Player</string>
+    <string name="vedio_player">Vedio Player</string>
+
+    <string name="LogTagStr">ListViewTst</string>
+
+    <array name="action_list">
+        <item>Action1</item>
+        <item>Action2</item>
+        <item>Action3</item>
+        <item>Action4</item>
+        <item>Action5</item>
+    </array>
+</resources>
